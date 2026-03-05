@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListyCity</string>
+    <string name="city_name_hint">City name</string>
+    <string name="province_hint">Province (e.g., Punjab)</string>
+    <string name="add_city">Add City</string>
+</resources>
